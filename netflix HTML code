@@ -1,0 +1,103 @@
+//HTML code 
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title> media practice</title>
+        <link rel="stylesheet" href="Netflix.css">
+        </head>
+        <body>
+            <div class="back-ground">
+            <div class="main">
+                <p class="logo">
+                    NETFLIX
+                </p>
+                <div class="merge">
+                <button class="language" > English </button>
+                <button class="Sign" > Sign In  </button>
+                </div>
+            </div>
+            <div class="box-2">
+            <p class="heading">The biggest Indian hits. Ready to watch here </p>
+            <p class="mid">from ₹149.</p>
+            <p class="mid2">Join today. Cancel anytime.</p>
+            <p class="last">Ready to watch? Enter your email to create or restart your membership.</p>
+            <div class="merge3">
+             <input class="email" type="text" placeholder="Email address"> 
+             <button class="start"> Get Started > </button>  
+             </div>  
+             <hr size="1" class="line">
+             <p class="header">Enjoy on your TV</p>
+             <p class="footer">Watch on smart TVs, PlayStation, Xbox, Chromecast,</p>
+             <p class="footer2"> Apple TV, Blu-ray players and more.</p>
+             <img src="Hollywood-movie-HD-720x354.png" class=photo >
+             <hr size="1" class="line2">
+             <div class="merge4">
+             <img src="mobile-0819.jpg" class=photo2 >
+             <div class="merge5 ">
+             <P class="ace">Download your shows to watch offline</P>
+             <p class="ace2">Save your favourites easily and always have something to watch.</p>
+                </div>
+                </div>
+                <hr size="1" class="line2">
+                <p class="asked">Frequently Asked Questions</p>
+                <div class="boxes">
+                    <button class="b1">What is Netfix?</button>
+                    <button class="b2"> How much does Netfix Cost </button>
+                    <button class="b3"> Where can I watch ?</button>
+                    <button class="b4">How do I cancel ?</button>
+                    <button class="b5">What can I watch on Netflix ?</button>
+                    <button class="b6">Is Netfix good for Kids?</button>
+                        
+                    
+
+                </div>
+               
+            
+           </div> 
+           <p class="last-line">Ready to watch? Enter your email to create or restart your membership</p>           
+           <div class="merge3">
+            <input class="email" type="text" placeholder="Email address"> 
+            <button class="start"> Get Started > </button>  
+            </div>    
+            <hr size="1" class="line2">  
+        <div class="final">
+           <div class="tag1">
+            <p>Questions? Call <u>000-800-919-1694</u> </p>
+            <p><u>FAQ</u></p>
+            <p><u>Investor Relations<u></p>
+                <p><u>Privacy</u></p>
+                <p><u>Speed Test</u></p>
+                <button class="language2" > English </button>
+                <p>Netfix India</p>
+                
+           </div> 
+           <div class="tag2">
+           
+            <p><u>Help Centre</u></p>
+            <p><u>Jobs<u></p>
+                <p><u>Privacy</u></p>
+                <p><u>Cookie Preferences </u></p>
+                
+                <p>Legal Notices</p>
+                </div>
+         
+               <div class="tag3">
+           
+                <p><u>Account</u></p>
+                <p><u>Ways to Watch<u></p>
+                    <p><u>Corporate Information</u></p>
+                    <p><u>Cookie Preferences </u></p>
+                    
+                    <p>Only on Netflix</p>
+                    </div>
+         </div> 
+         <hr size="1" class="line">
+
+        </div>
+
+
+        </body>
+ </html>       
