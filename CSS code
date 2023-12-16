@@ -1,0 +1,290 @@
+.main{
+
+    display:flex;
+    align-items: center;
+}
+.logo{
+   margin-right: 900px;
+   font-size: 60px;
+   font-weight: bold;
+   color: red;
+   margin-left: 50px;
+
+
+}
+.Sign{
+   color: white;
+   background-color: red;
+   font-size: 20px;
+   padding-left: 26px;
+   padding-right: 26px;
+   border:solid 2px red;
+   padding-top: 8px;
+   padding-bottom: 8px;
+   border-radius: 6px;
+
+}
+.language{
+    padding-left: 26px;
+   padding-right: 26px;
+    font-size: 20px;
+    margin-right: 10px;
+    padding-top: 8px;
+   padding-bottom: 8px;
+}
+.merge{
+   margin-left: 20px;
+  
+   
+}
+
+
+
+.back-ground{
+    background-color: black;
+    height:4000px;
+    width:fit-content
+
+
+}
+.heading{
+    color: white;
+    font-size: 60px;
+    display: block;
+    margin-left: 200px;
+}
+.mid{
+    color: white;
+    color: white;
+    font-size: 60px;
+    display: block;
+    margin-left: 600px;
+    align-items: center;
+    margin-top: -50px;
+}
+
+
+.last{
+    color: white;
+     color: white;
+    margin-left: 510px;
+    margin-top: 10px;
+    font-size: 20px;
+
+}
+.box-2{
+
+    align-items: center;
+   
+    margin-top:100px;
+    background-color:black;
+    
+}
+.mid2{
+    color: white;
+    margin-left: 670px;
+    margin-top: -30px;
+    font-size: 20px;
+}
+.merge3{
+
+    margin-left: 500px;
+    height: 70px;
+}
+.email{
+  border: solid 3px rgb(19, 211, 19);
+  padding: 20px;
+  padding-left: 20px;
+  padding-right: 240px;
+
+
+}
+email::placeholder{
+
+    font-size: 32px;
+}
+
+.start{
+
+    border: solid 1px green;
+  padding: 20px;
+  padding-left: 20px;
+  padding-right: 50px;
+  margin-left: 15px;
+  background-color: red;
+  border: solid 1px red;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+}
+.photo{
+
+height: 100px;
+
+}
+.line{
+
+    margin-top: 80px;
+}
+.photo{
+margin-left:700px;
+margin-top: -350px;
+height:500px;
+width:800px;
+
+}
+.header{
+color: white;
+font-size: 70px;
+margin-left: 32px;
+margin-top: 200px;
+
+}
+.footer{
+font-size: 30px;
+color: white;
+margin-left: 32px;
+margin-top:50px;
+}
+.footer2{
+ font-size: 30px;
+color: white;
+margin-left: 32px;
+margin-top:40px;
+
+
+}
+.line2{
+
+    margin-top: 150px;
+}
+.photo2{
+
+    margin-top: 100px;
+}
+.ace{
+    color: white;
+font-size: 70px;
+margin-top: 200px;
+
+}
+.ace2{
+    color: white;
+    font-size: 30px;  
+}
+.merge4{
+    display:flex;
+    margin-top: 100px;
+}
+.asked{
+
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+    font-size:70px;
+}
+.boxes{
+
+    display: grid;
+    text-align: center;
+    margin-left: 250px;
+    
+    height: 200px;
+    padding: 120px;
+    width:800px;
+    grid-gap: 20px;
+    margin-top: -100px;
+}
+.b1{
+
+    height:60px;
+    color: white;
+    border:solid 1px  rgb(49, 46, 46);
+    font-size: 20px;
+    background-color: rgb(56, 56, 56);
+}
+.b2{
+
+    height:60px;
+    color: white;
+    border:solid 1px  rgb(49, 46, 46);
+    font-size: 20px;
+    background-color: rgb(56, 56, 56);
+}
+.b3{
+
+    height:60px;
+    color: white;
+    border:solid 1px  rgb(49, 46, 46);
+    font-size: 20px;
+    background-color: rgb(56, 56, 56);
+
+}
+.b4{
+
+    height:60px;
+    color: white;
+    border:solid 1px  rgb(49, 46, 46);
+    font-size: 20px;
+    background-color: rgb(56, 56, 56);
+}
+.b5{
+
+    height:60px;
+    color: white;
+    border:solid 1px  rgb(49, 46, 46);
+    font-size: 20px;
+    background-color: rgb(56, 56, 56);
+}
+.b6{
+
+    height:60px;
+    color: white;
+    border:solid 1px  rgb(49, 46, 46);
+    font-size: 20px;
+    background-color: rgb(56, 56, 56);
+}
+.last-line{
+
+    color: white;
+    margin-top: 240px;
+    margin-left: 320px;
+    font-size: 32px;
+}
+.tag1{
+    color: white;
+    margin-left: 242px;
+    gap: 60px;
+    font-size: 20px;
+    margin-top: 150px;
+    column-count: auto;
+}
+.language2{
+
+    color: white;
+    background-color: black;
+    border: solid 0.5px lightgray;
+    padding: 7px;
+    padding-right: 10px;
+}
+.final{
+    display:  flex;
+   
+}
+.tag2{
+    color: white;
+    margin-left: 242px;
+    gap: 60px;
+    font-size: 20px;
+    margin-top: 220px;
+    column-count: auto;
+}
+.tag3{
+    color: white;
+    margin-left: 752px;
+    gap: 60px;
+    margin-top: -220px;
+    font-size: 20px;
+
+    column-count: auto;
+}
